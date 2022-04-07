@@ -1,0 +1,2 @@
+# LiDAR-interfacing-Arduino
+Lidar is a method for determining ranges (variable distance) by targeting an object or a surface with a laser and measuring the time for the reflected light to return to the receiver. It can also be used to make digital 3-D representations of areas on the earth's surface and ocean bottom by varying the wavelength of light. It has terrestrial, airborne, and mobile applications.
